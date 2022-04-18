@@ -10,3 +10,6 @@
 - Multiple platform support.
 - Why not add device analysis features. (IDK)
 - Refactor code.
+
+             
+
